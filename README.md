@@ -1,4 +1,10 @@
+
+
 # 💫 About Me:
+<p align="center">
+  <img src="3D Universe Sticker by GitHub.gif" width="200" alt="GitHub Sticker GIF">
+</p>
+
 - 🛠️ **I’m currently working on:**  <br>Championing scalable automation strategies for projects at TCS in Budapest, blending Selenium, Robot Framework, and Azure DevOps CI/CD to deliver robust, lightning-fast test frameworks tailored for critical identity management systems.<br><br>
 - 🧑🤝🧑 **I’m looking to collaborate on:**  <br>Cross-platform QA automation initiatives, modernising test strategies, integrating cutting-edge CI/CD pipelines, and knowledge-sharing on innovative ways to boost team productivity. Always up for a brainstorming session—especially if it involves Playwright, BrowserStack, or Python wizardry.<br><br>
 - 🤝 **I’m looking for help with:**  <br>Exploring advanced AI video creation for technical tutorials, streamlining multi-cloud automation approaches, and optimising European travel itineraries around hidden gems and local festivals.<br><br>
@@ -6,9 +12,6 @@
 - 💬 **Ask me about:**  <br>How to automate web, client-server, and security-focused applications using Selenium and Robot Framework; tricks for turbocharging CI/CD pipelines in Azure DevOps; hacks for actionable test reporting and process documentation; or just where to buy the best Indian spices in Budapest.<br><br>
 - ⚡ **Fun fact:**  <br>I engineered email-driven OTP validation flows to automate secure, real-time authentication testing—sometimes, my test scripts are more reliable than my morning alarm! Also, my transition from Selenium to Robot Framework Playwright cut test times by almost half, but it didn’t speed up my weekend supermarket queues.<br><br>
 
-<p align="center">
-  <img src="3D Universe Sticker by GitHub.gif" width="200" alt="GitHub Sticker GIF">
-</p>
 
 
 
