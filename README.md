@@ -6,6 +6,11 @@
 - 💬 **Ask me about:**  <br>How to automate web, client-server, and security-focused applications using Selenium and Robot Framework; tricks for turbocharging CI/CD pipelines in Azure DevOps; hacks for actionable test reporting and process documentation; or just where to buy the best Indian spices in Budapest.<br><br>
 - ⚡ **Fun fact:**  <br>I engineered email-driven OTP validation flows to automate secure, real-time authentication testing—sometimes, my test scripts are more reliable than my morning alarm! Also, my transition from Selenium to Robot Framework Playwright cut test times by almost half, but it didn’t speed up my weekend supermarket queues.<br><br>
 
+<p align="center">
+  <img src="3D Universe Sticker by GitHub.gif" width="200" alt="GitHub Sticker GIF">
+</p>
+
+
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/P5jmGNmXBT) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shivansh.kmr) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shivansh-kumar-54575b211/) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/shivansh_kmr) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Shivansh_Kmr) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shv.kmr0204@gmail.com) 
