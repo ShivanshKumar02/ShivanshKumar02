@@ -37,7 +37,14 @@
 
 ## 🌌 About Me
 
-<img align="right" width="180" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop"/>
+
+
+<img align="right" height="240" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=7B11F7&center=true&width=500&lines=🌐+Explore+My+Portfolio;Automation+QA+Engineer+Website)](https://shivanshkumar02.github.io/)
+
+</p>
 
 ```yaml
 name: Shivansh Kumar
@@ -48,6 +55,7 @@ location: Budapest, Hungary
 experience: 4+ Years
 domain: IAM · Security · QA Automation
 ```
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7B11F7&height=100&section=footer"/>
 
 > *"Quality is not a phase — it's a mindset woven into every pipeline stage."*
 
